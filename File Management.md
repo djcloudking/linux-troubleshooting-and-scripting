@@ -1,4 +1,4 @@
-# Bash Scripting - Exercise 1
+# Creating, Copying, and Renaming Files
 
 #### Create a directory "Ex3/" inside your home folder
 
