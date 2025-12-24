@@ -1,4 +1,4 @@
-# EXERCISE-2
+# Managing Directories and Files from the Command Line
 
 #### Create a directory "mydir1" in your present working directory.
 
